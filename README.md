@@ -6,8 +6,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Time Series Data and NLP
-- 🌱 I’m currently learning Tailwind CSS and figma
-- 🤔 I’m looking for help with NLP
-- 💬 Ask me about Machine and Deep learning stuff 
-- ⚡ Fun fact: Love to do intresting projects on AI stuff like computer vision,NLP, time series, etc
+
 
