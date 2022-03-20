@@ -2,7 +2,7 @@
 
 
 
-Here are something about me:
+Here is something about me:
 
 - 🏢 2nd year Btech student at TCET Mumbai (Branch - AI&ML)
 - 🔭 I’m currently working on Time Series Forecasting and Natural Language Processing
