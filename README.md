@@ -2,9 +2,10 @@
 
 
 
-Here are some ideas to get you started:
+Here are something about me:
 
-- 🔭 I’m currently working on Time Series Forecasting
+- 🏢 2nd year Btech student at TCET Mumbai (Branch - AI&ML)
+- 🔭 I’m currently working on Time Series Forecasting and Natural Language Processing
 - 🌱 I’m currently learning Tailwind CSS and Figma
 - 🤔 I’m looking for help with Natural Language processing
 - 💬 Ask me about Machine Learning and Deep LEarning Stuff
